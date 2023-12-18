@@ -1,0 +1,7 @@
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/install/strip.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/edit_cache.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/rknn_ssd_demo.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/rebuild_cache.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/list_install_components.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/install/local.dir
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/build/CMakeFiles/install.dir

@@ -1,0 +1,7 @@
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/./rknn_ssd_demo
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/.//model/ssd_inception_v2_rk180x.rknn
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/.//model/box_priors.txt
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/.//model/ssd_inception_v2_rv1109_rv1126.rknn
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/.//model/coco_labels_list.txt
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/.//model/road.bmp
+/home/cmos/RV1126_RV1109_SDK/external/rknpu/rknn/rknn_api/examples/rknn_ssd_demo/install/rknn_ssd_demo/lib/librknn_api.so
